@@ -1,0 +1,3 @@
+kushan 1 90 80
+kushan 1 90 80
+nimal 2 85 95
