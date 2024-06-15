@@ -1,27 +1,24 @@
 # Marks-System-in-CLI
  
-This C program allows users to manage student records through a console interface. It supports functionalities such as <br>
+This C program allows users to manage student records through a console interface. It supports functionalities such as <br><br>
 -inserting new records<br>
 -displaying individual or all records<br>
 -editing existing records<br>
--deleting records.
+-deleting records.<br><br>
 The data is stored in a text file (marks.txt) and loaded into memory as a linked list for efficient manipulation. Basic input validation ensures correct data entry for student names, indexes, and marks
 
-This is the Full Demo of the project
+This is the Full Demo of the project<br>
+
+![Demo](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/83359bd8-eae1-40ba-a362-60880da7cedd)
 
 
+<br>
+This is the screenshots of the system<br>
 
-https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/931b9def-c416-47f0-81db-e4a179c34418
-
-
-![Demo](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/880df804-36af-4887-bac5-8f4af2edee1a)
-
-This is the screenshots of our web site
-
-![1](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/c5f76df3-d3b0-4662-a461-30bf7f9dfa10)
-![2](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/e1b55718-2758-415f-bcc2-92f9ee2fc8ef)
-![3](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/6e460a2b-0702-4e44-8db8-2f7fbadd19eb)
-![4](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/5d339ac3-25fc-40d8-a3ce-46723adfb85a)
-![5](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/169b58fd-1f0e-4874-8273-341ec17a062c)
-![6](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/b842be3f-fa66-4ffe-98a3-bbdc7a13e21f)
-![7](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/f00c3a1c-9046-4b6b-99c3-746c86097af8)
+![1](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/9b029868-5544-4ed0-95c8-6b76d743faae)<br>
+![2](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/89931fce-6683-4ccc-bc57-4352de235bf4)<br>
+![3](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/877d9066-4c5f-44aa-90b2-73e50188c3b5)<br>
+![4](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/abd71c4e-fc80-4d28-aad2-986890b023c4)<br>
+![5](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/88d75e2e-3ccb-4f83-9d90-f347adfe0c58)<br>
+![6](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/fdab2eb2-8df3-4dc9-b16b-fa5ac0d96f7a)<br>
+![7](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/51390a31-d631-4a14-9e46-872f7ced2e2f)<br>
