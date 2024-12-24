@@ -1,15 +1,18 @@
 # Marks-System-in-CLI
  
-This C program allows users to manage student records through a console interface. It supports functionalities such as <br><br>
--inserting new records<br>
--displaying individual or all records<br>
--editing existing records<br>
--deleting records.<br><br>
+This C program allows users to manage student records through a console interface. It supports functionalities such as 
+
+<ul>
+<li>inserting new records</li>
+<li>displaying individual or all records</li>
+<li>editing existing records</li>
+<li>deleting records.</li>
+</ul>
 The data is stored in a text file (marks.txt) and loaded into memory as a linked list for efficient manipulation. Basic input validation ensures correct data entry for student names, indexes, and marks
 
 <h2>This is the Full Demo of the project</h2><br><br>
 
-![Demo](https://github.com/kusha2000/Marks-System-in-CLI/assets/127003267/83359bd8-eae1-40ba-a362-60880da7cedd)
+https://github.com/user-attachments/assets/0bd3d3ac-74fe-472f-b156-3afca431b032
 
 <br><br>
 <h2>This is the screenshots of the system</h2><br><br>
